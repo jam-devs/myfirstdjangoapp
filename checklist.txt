@@ -1,0 +1,6 @@
+Python version: 3.11.5  
+Virtual environment active: Yes  
+Django version: 4.2.6  
+Runserver working: Yes  
+Git remote set: Yes (origin: https://github.com/jam-devs/myfirstdjangoapp.git)
+

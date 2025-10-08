@@ -1,8 +1,0 @@
-#python
-__pycache__/
-
-#virtual environments
-.venv/
-
-#django
-db.sqlite3
